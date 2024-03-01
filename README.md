@@ -1,4 +1,4 @@
-echo "# tanb2110027 nnn" >> README.md
+echo "# tanb2110027" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
